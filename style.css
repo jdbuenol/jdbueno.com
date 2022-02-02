@@ -1,0 +1,21 @@
+.bg-port{
+    background-image: url(https://media2.giphy.com/media/i2tUkY5YrfN85y1W0P/giphy.gif);
+    background-size: 1000px;
+    width: 1908px;
+    height: 3000px;
+}
+
+.line{
+    background-color: #103568;
+    height: 3px;
+    width: 500px;
+}
+
+.row{
+    width:1908px;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+}
