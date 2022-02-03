@@ -7,3 +7,13 @@
 .row{
     width: 100vw;
 }
+
+.line{
+    height: 3px;
+    width: 30vw;
+}
+
+.icon{
+    height: 40px;
+    width: 40px;
+}
