@@ -1,5 +1,5 @@
 .bg-port{
-    background-image: url(https://media2.giphy.com/media/i2tUkY5YrfN85y1W0P/giphy.gif);
+    background-image: url("./bg.jpg");
     width: 100vw;
     height: 100vh;
 }
